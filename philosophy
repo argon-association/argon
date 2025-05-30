@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<title>理念</title>
+<meta name="keywords" content="ページのキーワードA,B,C">
+<meta name="description" content="ページの説明">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="outer">
+<header>
+<div class="header-inner">
+<h1><a href="https://argon-association.github.io/argon/">アルゴン研究所</a></h1>
+<p>雑多な御書所</p>
+</div>
+</header>
+<div id="content">
+<div class="inner">
+<h2>理念</h2>
+<p></p>
+<h3>複雑多岐の先の真理を追究します</h3>
+<p>多岐に渡る分野おいて初学者の初心を忘れずに、かつ岐路亡羊を恐れずに新たな知見の源流を求め続けます。</p>
+<h3>現実に生きる人々</h4>
+<p><a href=""></a></p>
+</div>
+<aside>
+<div class="left-title">サイトマップ</div>
+<div class="link">
+<ul>
+<li><a href="https://argon-association.github.io/argon/">ホーム</a></li>
+<li><a>工事中</a></li>
+<li><a>工事中</a></li>
+</ul>
+</div>
+</aside>
+</div>
+<footer>© 2025 アルゴン研究所</footer>
+</div>
+</body>
+</html>
